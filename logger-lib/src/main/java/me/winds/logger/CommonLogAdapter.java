@@ -13,7 +13,6 @@ import java.util.concurrent.Executors;
 
 /**
  * Author:  winds
- * Email:   heardown@163.com
  * Date:    2020/5/19.
  * Desc:
  */

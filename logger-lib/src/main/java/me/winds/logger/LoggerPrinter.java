@@ -1,9 +1,5 @@
 package me.winds.logger;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import java.io.StringReader;
 import java.io.StringWriter;
 import java.util.ArrayList;
